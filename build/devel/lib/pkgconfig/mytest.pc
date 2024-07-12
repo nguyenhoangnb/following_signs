@@ -1,0 +1,8 @@
+prefix=/home/nguyenhoang/turtlesim/src/mytest/build/devel
+
+Name: mytest
+Description: Description of mytest
+Version: 0.0.0
+Cflags: -I/home/nguyenhoang/turtlesim/src/mytest/build/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

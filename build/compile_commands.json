@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mytest\\\" -I/home/nguyenhoang/turtlesim/src/mytest/build/devel/include -I/home/nguyenhoang/turtlesim/src/mytest/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/simple1.dir/src/turtle1.cpp.o -c /home/nguyenhoang/turtlesim/src/mytest/src/turtle1.cpp",
+  "file": "/home/nguyenhoang/turtlesim/src/mytest/src/turtle1.cpp"
+},
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mytest\\\" -I/home/nguyenhoang/turtlesim/src/mytest/build/devel/include -I/home/nguyenhoang/turtlesim/src/mytest/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/client.dir/src/rosservice.cpp.o -c /home/nguyenhoang/turtlesim/src/mytest/src/rosservice.cpp",
+  "file": "/home/nguyenhoang/turtlesim/src/mytest/src/rosservice.cpp"
+},
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mytest\\\" -I/home/nguyenhoang/turtlesim/src/mytest/build/devel/include -I/home/nguyenhoang/turtlesim/src/mytest/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/subscriber.dir/src/subcriber.cpp.o -c /home/nguyenhoang/turtlesim/src/mytest/src/subcriber.cpp",
+  "file": "/home/nguyenhoang/turtlesim/src/mytest/src/subcriber.cpp"
+},
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mytest\\\" -I/home/nguyenhoang/turtlesim/src/mytest/build/devel/include -I/home/nguyenhoang/turtlesim/src/mytest/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/turtle.dir/src/turtlesim.cpp.o -c /home/nguyenhoang/turtlesim/src/mytest/src/turtlesim.cpp",
+  "file": "/home/nguyenhoang/turtlesim/src/mytest/src/turtlesim.cpp"
+},
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mytest\\\" -I/home/nguyenhoang/turtlesim/src/mytest/build/devel/include -I/home/nguyenhoang/turtlesim/src/mytest/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/simple.dir/src/turtle.cpp.o -c /home/nguyenhoang/turtlesim/src/mytest/src/turtle.cpp",
+  "file": "/home/nguyenhoang/turtlesim/src/mytest/src/turtle.cpp"
+},
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mytest\\\" -I/home/nguyenhoang/turtlesim/src/mytest/build/devel/include -I/home/nguyenhoang/turtlesim/src/mytest/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/pid.dir/src/pid.cpp.o -c /home/nguyenhoang/turtlesim/src/mytest/src/pid.cpp",
+  "file": "/home/nguyenhoang/turtlesim/src/mytest/src/pid.cpp"
+},
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"mytest\\\" -I/home/nguyenhoang/turtlesim/src/mytest/build/devel/include -I/home/nguyenhoang/turtlesim/src/mytest/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp  -g   -o CMakeFiles/server.dir/src/rosclient.cpp.o -c /home/nguyenhoang/turtlesim/src/mytest/src/rosclient.cpp",
+  "file": "/home/nguyenhoang/turtlesim/src/mytest/src/rosclient.cpp"
+},
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -isystem /usr/src/googletest/googlemock/include -isystem /usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build/gtest/googlemock",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -isystem /usr/src/googletest/googletest/include -isystem /usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -DGTEST_HAS_PTHREAD=1 -std=c++11 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/nguyenhoang/turtlesim/src/mytest/build/gtest/googletest",
+  "command": "/usr/bin/c++  -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest  -g -fPIC   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+}
+]

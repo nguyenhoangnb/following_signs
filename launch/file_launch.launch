@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+<node name ="example1" pkg="mytest"
+type="simple"/>
+<node name ="example2" pkg="mytest"
+type="simple1"/>
+</launch>
